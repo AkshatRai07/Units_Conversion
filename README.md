@@ -1,12 +1,46 @@
-# React + Vite
+# 🌍 Currency & Unit Conversion App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple and intuitive React-based project built using **Vite** and styled with **TailwindCSS**. It allows users to convert currencies and various types of units with ease.
 
-Currently, two official plugins are available:
+## 🚀 Getting Started
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+To run the project locally:
 
-## Expanding the ESLint configuration
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/AkshatRai07/Units_Conversion.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd Units_Conversion
+   ```
+3. Install the dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the development server:
+   ```bash
+   npm run dev
+   ```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+> Feel free to use other methods if you're comfortable setting up Vite projects differently.
+
+## 🔄 Features
+
+- **Currency Conversion**: Easily convert between different currencies using up-to-date exchange rates.
+- **Unit Conversion**: Switch to the "Unit" tab to convert values across various categories including:
+  - Length
+  - Area
+  - Mass
+  - Data Storage
+  - and more...
+
+## 🛠 Tech Stack
+
+- **React**
+- **Vite**
+- **TailwindCSS**
+
+## 📌 Notes
+
+This is my first project using React, Vite, and TailwindCSS—built to learn and practice these technologies.
