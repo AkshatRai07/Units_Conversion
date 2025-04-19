@@ -17,7 +17,7 @@ function Currency() {
     }, [amount, from, to, currencyInfo])
 
     return (
-        <div className='w-[100vw] h-[80vh] flex flex-col justify-center-safe gap-[5vh] items-center'>
+        <div className='w-[100vw] h-[80vh] flex flex-col justify-center gap-[5vh] items-center'>
             <InputBox
                 label = {"From"}
                 amount={amount}
